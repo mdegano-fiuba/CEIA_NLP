@@ -86,7 +86,7 @@ A partir del conjunto de datos propuesto se entrenaron varios modelos con arquit
 <a href="/4.%20Q&A%20Bot" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Ver%20notebook%20(Desarrollo%20y%20conclusiones)-B9E1F5?style=flat-square&logo=googlecolab"></a>
 
 <br><br>
-##    
+## ...    
 <div align="center">
    <a href="https://mdegano-fiuba.github.io/CEIA_NLP/" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8F%A0-Ver%20en%20GitHub%20Pages-B9E1F5?style=flat-square" alt="Home">
 </a></div>
