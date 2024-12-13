@@ -22,7 +22,7 @@
         <font size=10 color="#FFFFFF"><img src="https://fi.uba.ar/images/logo-fiuba.png" alt="Logo FIUBA" width=150> {{ site.description | default: site.github.project_tagline }}</font>
         <a href="{{ '/' | absolute_url }}"><h2>{{ site.title | default: site.github.repository_name }}</h2></a>
         {% if site.github.is_project_page %}
-          <a href="{{ site.github.repository_url }}" class="button"><small>Ver repositorio en </small> GitHub</a>
+          <a href="{{ site.github.repository_url }}" class="button" target="_blank"><small>Ver repositorio en </small> GitHub</a>
         {% endif %}
       </div>
     </header>
@@ -46,10 +46,10 @@
           {% endif %}
 
           {% if site.github.is_project_page %}
-            <p> Autor: <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
+            <p> Autor: <a href="{{ site.github.owner_url }}" target="_blank">{{ site.github.owner_name }}</a>.</p>
           {% endif %}
 
-          <p>Generado por <a href="https://pages.github.com">GitHub Pages</a>.</p>
+          <p>Generado por <a href="https://pages.github.com" target="_blank">GitHub Pages</a>.</p>
         </aside>
       </div>
     </div>
