@@ -35,7 +35,7 @@ VECTORIZACION DE DOCUMENTOS
 
 * **Resumen**:  
 Sobre un conjunto de datos dado (20 Newsgroups) utilizado comúnmente para tareas de clasificación de texto y que contiene publicaciones de 20 grupos de noticias diferentes se realizaron diferentes experimentos para comparar y obtener conclusiones.  Se evaluaron diferentes métodos de vectorización (TfidfVectorizer, CountVectorizer) y se evaluó similaridad entre ciertos documentos tomados al azar con el resto de los documentos del corpus.  Se entrenaron diferentes modelos de clasificación Naive Bayes buscando maximizar el desempeño de clasificación sobre el conjunto de datos (Multinomial, ComplementNB) y medir similaridad entre palabras.  <br>  
-<a href="/D1" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Ver%20notebook%20(Desarrollo%20y%20conclusiones)-B9E1F5?style=flat-square&logo=googlecolab"></a>
+<a href="/1.%20Vectorización" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Ver%20notebook%20(Desarrollo%20y%20conclusiones)-B9E1F5?style=flat-square&logo=googlecolab"></a>
 
 <br><br>
 ## Desafío 2
@@ -52,7 +52,7 @@ EMBEDDINGS
 
 * **Resumen**:  
 Se utilizó para el análisis un corpus armado con archivos *.txt con los cuentos más famosos de los hermanos Grimm.  Se realizó la tokenización por palabras para evaluar similaridad entre términos y hacer pruebas de analogías.  Se exploraron diferentes modelos de embeddings de palabras (Glove, Fasttext) y se realizaron diferentes entrenamientos modificando parámetros para analizar comparativamente su desempeño.  <br>  
-<a href="/D1" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Ver%20notebook%20(Desarrollo%20y%20conclusiones)-B9E1F5?style=flat-square&logo=googlecolab"></a>
+<a href="/2.%20Word Embeddings" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Ver%20notebook%20(Desarrollo%20y%20conclusiones)-B9E1F5?style=flat-square&logo=googlecolab"></a>
 
 <br><br>
 ## Desafío 3
@@ -70,7 +70,7 @@ MODELOS DE LENGUAJE
 
 * **Resumen**:  
 Sobre el cuento "El Gato Negro" de Edgar Allan Poe se realizó el entrenamiento de diferentes modelos de lenguaje.  Se exploraron arquitecturas LSTM, GRU y RNN.  Se evaluó la generación de nuevas secuencias a partir de secuencias de entrada aplicando las diferentes técnicas propuestas.  <br>  
-<a href="/D1" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Ver%20notebook%20(Desarrollo%20y%20conclusiones)-B9E1F5?style=flat-square&logo=googlecolab"></a>
+<a href="/3.%20Modelo de lenguaje" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Ver%20notebook%20(Desarrollo%20y%20conclusiones)-B9E1F5?style=flat-square&logo=googlecolab"></a>
 
 <br><br>
 ## Desafío 4
@@ -83,10 +83,10 @@ BOT DE PREGUNTAS Y RESPUESTAS
 
 * **Resumen**:  
 A partir del conjunto de datos propuesto se entrenaron varios modelos con arquitectura Encoder-Decoder con diferentes parámetros para evaluar el desempeño comparativo del bot generando respuestas a las preguntas ingresadas como input.  <br>  
-<a href="/D1" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Ver%20notebook%20(Desarrollo%20y%20conclusiones)-B9E1F5?style=flat-square&logo=googlecolab"></a>
+<a href="/4.%20Q&A%20Bot" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Ver%20notebook%20(Desarrollo%20y%20conclusiones)-B9E1F5?style=flat-square&logo=googlecolab"></a>
 
 <br><br>
 ##    
 <div align="center">
-   <a href="[https://tuproyecto.github.io](https://mdegano-fiuba.github.io/CEIA_test/)" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8F%A0-Ver%20en%20GitHub%20Pages-B9E1F5?style=flat-square" alt="Home">
+   <a href="https://mdegano-fiuba.github.io/CEIA_NLP/" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8F%A0-Ver%20en%20GitHub%20Pages-B9E1F5?style=flat-square" alt="Home">
 </a></div>
